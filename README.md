@@ -9,5 +9,6 @@
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torazzer)](https://github.com/torazzer/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
