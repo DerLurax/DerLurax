@@ -1,5 +1,4 @@
-👋 Hi, I’m @JasxnDerDev
-👀 I’m interested in Java and Website Development
-🌱 I’m currently learning Java
-💞️ I’m looking to collaborate on ...
-📫 How to reach me ...
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=torazzer&show_icons=true&theme=tokyonight)
